@@ -104,8 +104,8 @@
 
 .screen {
   display: grid;
-  grid-template-rows: 30% 70%;
-  padding: 10px 10px 30px;
+  grid-template-rows: 0% 70%;
+  padding: 0px 10px 30px;
   position: relative;
   text-align: right;
 }
